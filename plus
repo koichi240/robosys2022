@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+# SPOX-FileCopyrightText: 2022 Koichi Nishiguchi
+# SPDX-License-Identifier: BSD-3-Clause
+
 import sys
 
 ans = 0
